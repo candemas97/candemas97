@@ -1,5 +1,5 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--<!--horizontal divider(gradiant)-->
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 <!--Greeting-->
 <div id="user-content-toc">
@@ -8,7 +8,7 @@
   </ul>
 </div>
 <!--Quick presentation-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&pause=1000&color=61AFEF97&width=435&lines=Welcome+to+my+Github+Profile!;My+name+is+Carlos+Masmela;I'm+a+Data+Scientist+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+an+AI+Engineer+%F0%9F%A4%96" alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&pause=1000&color=61AFEF97&width=435&lines=Welcome+to+my+Github+Profile!;My+name+is+Carlos+Masmela;I'm+a+Data+Scientist+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+an+AI+Engineer+%F0%9F%A4%96" alt="Typing SVG" /></a>-->
 
 <!--About Me-->
 
