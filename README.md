@@ -19,7 +19,7 @@
 - :school: Master's Degree in `Artificial Intelligence` and in `Analytics for BI`
 - :technologist: **Currently working on** `Data Science`**,** `Data Analytics` **&** `MLOps`
 - :boom: You can visit [PHITTER](https://phitter.io/) for simulate and fit distributions
-- :nerd_face: Currently learning `Frontend`
+- :nerd_face: Currently learning `Vue`
 - 💯 Remember: `"Sleep, eat, code, repeat"`
 
 <br>
